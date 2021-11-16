@@ -1,0 +1,15 @@
+﻿Iran is The biggest country in Asia.,False,True
+sky is red.,False,True
+The word "education" is uncountable noun.,True,False
+Farm animal's author is charles dickens.,False,True
+Moon is White.,True,False
+What is the past form of go?,went
+What is the synonym of vital?,important
+What is the verb of beautiful?,beautify
+what is the past participle of take?,taken
+what is the part speech of friendly?,adverb
+what does the word 'insomnia' mean?,unable to sleep,unable to think,unable to eat,unable to concentrate
+what does the word 'essential' mean?,necessary,difficult,hard,awful
+what does the word 'hoard' mean?,store,happy,sad,confusing
+what does the word 'umpire' maen?,referee,unhappy,stingy,tough
+What does the word 'struggle' mean?,try hard,lazy,useful,workaholic
