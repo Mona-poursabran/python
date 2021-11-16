@@ -1,0 +1,11 @@
+owner,renter,address,rooms,house_area,yard_area,num_of_floor,mortgage,rent,sale,tel,on_sale,on_rent
+
+Sam Samithi,null,Tehran-Tajrish _ plaque= 6 _ postalcode= 141600150,2,90,10,1,200000000,1000000,600000000,active,True,False
+
+Mahsa Karmani,null,Tehran-Vanak _ plaque= 3 _ postalcode= 15467,3,150.0,30.0,2,900000000,1500000,80000000,active,True,False
+
+Ali Emadi,Jack smith,Tehran-Vanak _ plaque= 3 _ postalcode= 15467,2,70.0,30.0,1,500000000,1500000,950000000,active,False,True
+
+Jack smith,Bardia Nikbakhsh,Tehran-Janatabad _ plaque= 24 _ postalcode= 13654,2,66.0,30.0,1,500000000,1500000,700000000,active,False,True
+
+Mobina Mohammadi,Ehsan Mozafari,Tehran-Satarkhan _ plaque= 20 _ postalcode= 225544,2,120.0,10.0,1,300,100,900,inactive,False,True

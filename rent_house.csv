@@ -1,0 +1,4 @@
+owner,renter,address,rooms,house_area,yard_area,num_of_floor,mortgage,rent,sale,tel,on_sale,on_rent,code
+Ali Emadi,Jack smith,Tehran-Vanak _ plaque= 3 _ postalcode= 15467,2,70.0,30.0,1,500000000,1500000,950000000,active,False,True,1
+Jack smith,Bardia Nikbakhsh,Tehran-Janatabad _ plaque= 24 _ postalcode= 13654,2,66.0,30.0,1,500000000,1500000,700000000,active,False,True,2
+Mobina Mohammadi,Ehsan Mozafari,Tehran-Satarkhan _ plaque= 20 _ postalcode= 225544,2,120.0,10.0,1,300,100,900,inactive,False,True,3
